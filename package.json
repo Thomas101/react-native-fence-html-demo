@@ -1,0 +1,25 @@
+{
+  "name": "ReactNativeFenceHtmlDemo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "name": "react-native-fence-html-demo",
+  "author": "Thomas Beverley",
+  "license": "BSD-2-Clause",
+  "repository": "",
+  "description": "Tiny react-native-fence-html demo",
+  "keywords":[
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "html",
+    "demo",
+    "example"
+  ],
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.23.1",
+    "react-native-fence-html": "^1.0.0"
+  }
+}
