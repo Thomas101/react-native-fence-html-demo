@@ -22,6 +22,9 @@ class Demo extends Component {
       </ul>
       <p style="text-align: right;"><span style="color: rgb(118, 146, 60);"><strong>The sink that lives over here</strong></span></p>
       <p style="text-align: center;"><span style="color: rgb(227, 108, 9);">And other HTML-y goodness :-)</span></p>
+      <p style="text-align: center;">
+        <img src="https://facebook.github.io/react-native/img/opengraph.png" style="width:100px; height:100px;"/>
+      </p>
       <p>Drumstick strip steak ball tip pancetta jerky kevin filet mignon tri-tip. Ground round filet mignon meatloaf salami rump kielbasa fatback beef picanha tail tongue ball tip pork loin ham hock strip steak. Swine short ribs cow kielbasa ribeye tri-tip pancetta porchetta beef ribs fatback shoulder. Filet mignon pork loin salami brisket, cupim shoulder turkey prosciutto tenderloin beef ribs. Tail leberkas brisket t-bone beef.</p>
     </div>
     `
