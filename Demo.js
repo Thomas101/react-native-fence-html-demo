@@ -1,10 +1,8 @@
-import React, {
-  Component,
-  ScrollView
-} from 'react-native';
+import React from 'react'
+import { ScrollView } from 'react-native';
 import HTML from 'react-native-fence-html'
 
-class Demo extends Component {
+class Demo extends React.Component {
   render() {
     const html = `
     <div>

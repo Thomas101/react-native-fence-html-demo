@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "react": "^0.14.8",
-    "react-native": "^0.23.1",
-    "react-native-fence-html": "^1.0.4"
+    "react-native": "^0.25.1",
+    "react-native-fence-html": "^1.0.5"
   }
 }
